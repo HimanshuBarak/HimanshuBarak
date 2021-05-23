@@ -2,11 +2,11 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
 ## I am sophomore student in VIT Chennai
 
-- 🔭 I am passionate MERN stack Developer
-- 🌱 I’m currently learning more of DSA and Node js
-- 🥅 Other than coding I am into reading fantasy fiction novels
-- ⚡ I also write blogs and poems
- - 👨‍💻 All of my projects are available at [https://himanshubarak.netlify.app/](https://himanshubarak.netlify.app/)
+- 🔭 I am passionate MERN stack Developer.
+- 🌱 I’m currently learning more of DSA and Node js.
+- 🥅 Other than coding I am into reading fantasy fiction novels.
+- ⚡ I also write blogs and poems.
+ - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.netlify.app/)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBarak&theme=tokyonight)
 ## Languages and Tools:
@@ -29,9 +29,9 @@
 
 ## Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="codeSTACKr | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+[<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
 
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
