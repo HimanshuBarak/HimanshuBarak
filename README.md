@@ -1,6 +1,6 @@
 # Hi there, I'm Himanshu  👋
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
-## I am sophomore student in VIT Chennai
+## I am a Sophomore, Btech CSE student in VIT Chennai
 
 - 🔭 I am passionate MERN stack Developer.
 - 🌱 I’m currently learning more of DSA and Node js.
