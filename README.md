@@ -8,7 +8,7 @@
 - ⚡ I also write blogs and poems.
  - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.netlify.app/)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBarak&theme=tokyonight)
+
 ## Languages and Tools:
 
 <img align="left" alt="React" width="45px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png" />
@@ -32,10 +32,13 @@
 [<img align="left" alt="website" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 [<img align="left" alt="Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
 <br />
+<br />
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBarak)
+<br />
+<br />
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
+
 
 [website]: https://himanshubarak.netlify.app/
 [instagram]: https://www.instagram.com/__himanshu_0_0/
