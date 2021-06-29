@@ -6,7 +6,7 @@
 - 🌱 I’m currently learning more of DSA and Node js.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
 - ⚡ I also write blogs and poems.
- - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.netlify.app/)
+ - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.github.io/portfolio/)
 
 
 ## Languages and Tools:
