@@ -2,10 +2,10 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
 ## I am a Sophomore, Btech CSE student in VIT Chennai
 
-- 🔭 I am passionate MERN stack Developer.
-- 🌱 I’m currently learning more of DSA and Node js.
+- 🔭 I am passionate frontend Developer.
+- 🌱 I’m currently exploring Android Development.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
-- ⚡ I also write blogs and poems.
+- ⚡ I am also fascinated by human psychology and love to watch documentaries of same.
  - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.github.io/portfolio/)
 
 
