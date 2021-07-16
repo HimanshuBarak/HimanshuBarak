@@ -5,8 +5,8 @@
 - 🔭 I am passionate frontend Developer.
 - 🌱 I’m currently exploring Android Development.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
-- ⚡ I am also fascinated by human psychology and love to watch documentaries of same.
- - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.github.io/portfolio/)
+- ⚡ Check out my first blog on how React js works under the hood [here](https://medium.com/@himanshubarak/understanding-how-react-js-works-under-the-hood-67542803539d)
+ - 👨‍💻 All of my projects are available in my [website](https://himanshubarak.github.io/)
 
 
 ## Languages and Tools:
