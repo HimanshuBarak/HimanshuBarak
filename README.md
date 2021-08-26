@@ -2,7 +2,7 @@
 ![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
 
 
-[<img align="left" alt="website"  src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white" />][website]
+[<img align="left" alt="website"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
 [<img align="left" alt="linkedin"  src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />][linkedin]
 [<img align="left" alt="instagram" src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />][instagram]
 <br>
@@ -11,8 +11,8 @@
 - 🔭 A MERN Stack Developer with a emphasis on React JS.
 - 🌱 I’m always learning one thing or the other Currently its Android Development.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
-- ⚡ Check out my first blog on how React js works under the hood [here](https://medium.com/@himanshubarak/understanding-how-react-js-works-under-the-hood-67542803539d)
- - 👨‍💻 Reach out me on Discord if you wanna collaborate on a exciting project.
+- ⚡ Check out my first blog on how React js works under the hood [here](https://medium.com/@himanshubarak/understanding-how-react-js-works-under-the-hood-67542803539d).
+ - 👨‍💻 Reach out to me if you wanna collaborate on a exciting project.
 
 
 ## Technologies:
@@ -47,6 +47,6 @@
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
 
 
-[website]: https://himanshubarak.netlify.app/
+[medium]: https://medium.com/@himanshubarak
 [instagram]: https://www.instagram.com/__himanshu_0_0/
 [linkedin]: https://www.linkedin.com/in/himanshu-barak-002714118
