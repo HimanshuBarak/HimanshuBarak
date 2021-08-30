@@ -1,5 +1,11 @@
+
+
 # Hi there, Himanshu here  👋
-![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
+
+<img src="https://camo.githubusercontent.com/c2d44b439d2c71a107082f584252e7c54c2e5294cd4d13d31c9db62dc5d953b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436a3343653765386832454b592f67697068792e676966" width="100%">
+
+
+
 
 
 [<img align="left" alt="website"  src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />][medium]
@@ -46,6 +52,7 @@
 <br />
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
 
+![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
 
 [medium]: https://medium.com/@himanshubarak
 [instagram]: https://www.instagram.com/__himanshu_0_0/
