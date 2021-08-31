@@ -1,6 +1,6 @@
 
 
-# Hi there, Himanshu here  👋
+# Hey there, Himanshu here  👋
 
 <img src="https://camo.githubusercontent.com/c2d44b439d2c71a107082f584252e7c54c2e5294cd4d13d31c9db62dc5d953b2/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f436a3343653765386832454b592f67697068792e676966" width="100%">
 
@@ -21,8 +21,7 @@
  - 👨‍💻 Reach out to me if you wanna collaborate on a exciting project.
 
 
-## Technologies:
-
+##  Technologies 
 <div>
    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
@@ -46,13 +45,15 @@
 
 <br />
 
+##  Statistics 
+<table>
+  <tr>
+    <td><img src="https://github-readme-stats.vercel.app/api?username=HimanshuBarak&theme=dark&show_icons=true&include_all_commits=true&count_private=true"  display=block width=100% height=auto alt="1"></td>
+    <td><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBarak&theme=dark&layout=compact&hide=Jupyter%20Notebook"  display=block height=190 align="center" alt="2"></td>
+   </tr>
+</table>
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=HimanshuBarak)
-<br />
-<br />
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=HimanshuBarak&show_icons=true&theme=tokyonight)
 
-![](https://visitor-badge.laobi.icu/badge?page_id=HimanshuBarak.HimanshuBarak)
 
 [medium]: https://medium.com/@himanshubarak
 [instagram]: https://www.instagram.com/__himanshu_0_0/
