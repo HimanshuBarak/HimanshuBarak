@@ -20,7 +20,7 @@
 
 ## I am a 3rd year, Btech CSE student in VIT Chennai
 
-- 🔭 A MERN Stack Developer with a emphasis on React JS.
+- 🔭 A MERN Stack Developer with a love for React JS.
 - 🌱 I’m always learning one thing or the other Currently its Android Development.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
 - ⚡ Check out my first blog on how React js works under the hood [here](https://medium.com/@himanshubarak/understanding-how-react-js-works-under-the-hood-67542803539d).
