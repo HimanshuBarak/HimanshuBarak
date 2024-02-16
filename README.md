@@ -20,7 +20,7 @@
 
 ## I am a CSE graduate from VIT
 
-- 🔭 A problem solver wiht strong experience in MERN , python and AWS
+- 🔭 A problem solver with strong experience in MERN , python and AWS
 - 🌱 I’m always learning one thing or the other currently its Golang.
 - 🥅 Other than coding I am into reading fantasy fiction novels.
 - ⚡ Check out my first blog on how React js works under the hood [here](https://medium.com/@himanshubarak/understanding-how-react-js-works-under-the-hood-67542803539d).
